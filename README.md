@@ -30,6 +30,8 @@ $ go run lookup.go yourfile
 ```
 There are several testing files I have used in the testing folder, which allows you see the report immediately, this is because it takes time for the cloud to run the newly uploaded file against different engines.
 
+Code was tested on both my workstation (Gentoo Linux with 4.19 LTS kernel) and a freshly created ubuntu server (18.04 LTS) VM image.
+
 Thank you.
 
 Here is a sample output:
