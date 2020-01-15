@@ -7,7 +7,7 @@ The following procedure assumes you are running with the Linux environment, spec
 
 1. Install Go
 ```
-$ sudo apt install go
+$ sudo apt install golang
 ```
 
 2. Clone the repository
