@@ -3,7 +3,7 @@
 
 Thanks for reviewing my code. The code is written in Go. Please follow the instructions to run the code.
 
-The following procedure assumes you are running with the Liunx environment, specifically the Debian-based distribution
+The following procedure assumes you are running with the Linux environment, specifically the Debian-based distribution
 
 1. Install Go
 ```
